@@ -27,5 +27,6 @@ public class Bai7 {
             }
         }
         System.out.println("số lượng phần tử "+x+ " là : "+ dem);
+        System.out.println("by Hoàng Anh Ngô");
     }
 }

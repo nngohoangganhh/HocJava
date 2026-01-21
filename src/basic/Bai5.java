@@ -28,5 +28,6 @@ public class Bai5 {
         }
         System.out.println(" số đảo ngược của " +n +" là :12" + resserse );
       scanner.close();
+      //HOÀNG ANH NGÔ
     }
 }

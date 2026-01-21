@@ -25,5 +25,6 @@ public class Bai6 {
              }
         }
         System.out.println("số lơn nhất trong mảng là: " +max);
+        // hOÀNG ANH NGÔ
     }
 }

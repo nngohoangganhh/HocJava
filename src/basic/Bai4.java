@@ -53,5 +53,6 @@ public class Bai4 {
         System.out.println("Số " + original + " có " + count + " chữ số");
 
         scanner.close();
+        // Hoàng Anh NGÔ
     }
 }

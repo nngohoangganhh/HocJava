@@ -13,5 +13,6 @@ public class Bai2 {
             System.out.println(  n + " là số lẻ ");
         }
         scanner.close();
+        // Hoàng anH nGÔ
     }
 }

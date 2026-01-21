@@ -37,5 +37,6 @@ public class Bai10 {
            System.out.println("số thứ hai lớn nhất "+secondMax);
        }
        scanner.close();
+        System.out.println("copy right Hoàng Anh Ngô");
     }
 }

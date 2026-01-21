@@ -17,5 +17,6 @@ public class Bai1 {
         System.out.println("Tổng là "+ sum);
         sc.close();
         return;
+        // HOÀNG ANH NGÔ
     }
 }

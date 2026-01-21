@@ -29,6 +29,7 @@ public class Bai3 {
         } else {
             System.out.println(number + " không phải là số nguyên tố.");
         }
+        // HOÀNG ANH NGÔ
     }
 }
 

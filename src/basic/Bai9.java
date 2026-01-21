@@ -24,5 +24,6 @@ public class Bai9 {
         }
         System.out.println(s.charAt(left));
         System.out.println(s.charAt(right));
+        System.out.println("by Hoàng Anh Ngô");
     }
 }
